@@ -74,3 +74,23 @@
 .keris-kedyuche-line-font {
   font-family: 'KerisKedyucheLine', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'SchoolSafetyRoundedSmile';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.4.0/fonts/school-safety-rounded-smile/HakgyoansimDunggeunmiso-R.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SchoolSafetyRoundedSmile';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.4.0/fonts/school-safety-rounded-smile/HakgyoansimDunggeunmiso-B.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.school-safety-rounded-smile-font {
+  font-family: 'SchoolSafetyRoundedSmile', sans-serif !important;
+}
