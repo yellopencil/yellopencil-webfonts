@@ -42,3 +42,35 @@
 .nostalgic-police-vibe-font {
   font-family: 'NostalgicPoliceVibe', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'KerisKedyuche';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.3.0/fonts/keris-kedyuche/KERISKEDU_R.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'KerisKedyuche';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.3.0/fonts/keris-kedyuche/KERISKEDU_B.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'KerisKedyucheLine';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.3.0/fonts/keris-kedyuche/KERISKEDU_Line.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.keris-kedyuche-font {
+  font-family: 'KerisKedyuche', sans-serif !important;
+}
+
+.keris-kedyuche-line-font {
+  font-family: 'KerisKedyucheLine', sans-serif !important;
+}

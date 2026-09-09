@@ -47,6 +47,23 @@
 
 웹폰트 파일은 변환하거나 수정하지 않고 원본 그대로 배포합니다.
 
+## 케리스 케듀체
+
+- 저작권자: KERIS
+- 제작사: 투게더그룹
+- 공식 다운로드 및 라이선스: https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202512150000000000002
+- 라이선스: SIL Open Font License 1.1
+- 제공 구성: R 400, B 700, Line 400
+- 라이선스 전문: `licenses/keris-kedyuche/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 TTF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.3.0/fonts/keris-kedyuche/font.css">
+```
+
+기본 R/B 서체는 `.keris-kedyuche-font`, 라인 서체는
+`.keris-kedyuche-line-font` 클래스로 적용할 수 있습니다.
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
