@@ -30,3 +30,15 @@
 .elegant-serif-font {
   font-family: 'ElegantSerif', serif !important;
 }
+
+@font-face {
+  font-family: 'NostalgicPoliceVibe';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.2.0/fonts/nostalgic-police-vibe/Griun_PolSensibility-Rg.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.nostalgic-police-vibe-font {
+  font-family: 'NostalgicPoliceVibe', sans-serif !important;
+}

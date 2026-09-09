@@ -31,6 +31,22 @@
 
 웹폰트 파일은 원본 이름과 내용을 변경하지 않고 배포합니다.
 
+## 그리운 경찰감성체
+
+- 폰트명: 그리운 경찰감성체 (Griun PolSensibility)
+- 공식 배포처: https://www.griun.co.kr/fonts/polsensibility
+- 사용범위: 모든 사용 범위에서 자유롭게 사용 가능
+- 제한사항: 폰트 파일 개작, 수정, 판매 금지
+- 제공 두께: 400
+- 라이선스 안내: `licenses/nostalgic-police-vibe/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 TTF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.2.0/fonts/nostalgic-police-vibe/font.css">
+```
+
+웹폰트 파일은 변환하거나 수정하지 않고 원본 그대로 배포합니다.
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
