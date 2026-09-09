@@ -1,17 +1,4 @@
 @font-face {
-  font-family: 'Cafe24Anemone';
-  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.0.0/fonts/cafe24-anemone/Cafe24Ohsquare-v2.0.woff2') format('woff2'),
-       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.0.0/fonts/cafe24-anemone/Cafe24Ohsquare-v2.0.woff') format('woff');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-.cafe24-anemone-font {
-  font-family: 'Cafe24Anemone', sans-serif !important;
-}
-
-@font-face {
   font-family: 'ElegantSerif';
   src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.1.0/fonts/elegant-serif/GraceSerif-Regular.ttf') format('truetype');
   font-weight: 400;
