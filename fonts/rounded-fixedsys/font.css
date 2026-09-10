@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'RoundedFixedsys';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.7.0/fonts/rounded-fixedsys/DungGeunMo.eot');
+  src:
+    url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.7.0/fonts/rounded-fixedsys/DungGeunMo.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.7.0/fonts/rounded-fixedsys/DungGeunMo.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.7.0/fonts/rounded-fixedsys/DungGeunMo.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.rounded-fixedsys-font {
+  font-family: 'RoundedFixedsys', monospace !important;
+}

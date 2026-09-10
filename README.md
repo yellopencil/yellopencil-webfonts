@@ -106,6 +106,21 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.6.0/fonts/nexon-maplestory/font.css">
 ```
 
+## 둥근모꼴+Fixedsys
+
+- 제작 및 배포: CACTUS (Kil Hyung-jin)
+- 공식 배포처: https://cactus.tistory.com/193
+- 사용권: 퍼블릭 도메인
+- 사용범위: 재배포, 수정 및 영리 목적 사용 가능
+- 제공 두께: 400
+- 제공 형식: WOFF2, WOFF, EOT
+- 사용권 및 출처 안내: `licenses/rounded-fixedsys/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 웹폰트
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.7.0/fonts/rounded-fixedsys/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
