@@ -106,3 +106,23 @@
 .galmuri9-font {
   font-family: 'Galmuri9', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'NexonMaplestory';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.6.0/fonts/nexon-maplestory/Maplestory%20Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NexonMaplestory';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.6.0/fonts/nexon-maplestory/Maplestory%20Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.nexon-maplestory-font {
+  font-family: 'NexonMaplestory', sans-serif !important;
+}
