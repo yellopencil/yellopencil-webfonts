@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Galmuri9';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.5.0/fonts/galmuri9/Galmuri9.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.galmuri9-font {
+  font-family: 'Galmuri9', sans-serif !important;
+}
