@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'KkuBulLim';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.11.0/fonts/kkubulim/BMKkubulimTTF.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.kkubulim-font {
+  font-family: 'KkuBulLim', sans-serif !important;
+}

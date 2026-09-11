@@ -166,6 +166,21 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.10.1/fonts/a2z/font.css">
 ```
 
+## 배달의민족 꾸불림체
+
+- 제작 및 저작권: (주)우아한형제들
+- 공식 배포처: https://www.woowahan.com/fonts
+- 라이선스: SIL Open Font License 1.1
+- 제공 두께: 400
+- 라이선스 전문: `licenses/kkubulim/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 TTF
+- 제한사항: 폰트 파일 자체의 유료 판매 금지
+- 예약 폰트명: BMkkubulimTTF, BMkkubulim
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.11.0/fonts/kkubulim/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
