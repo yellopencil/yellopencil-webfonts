@@ -151,6 +151,21 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.9.0/fonts/griun-ochungi-kim/font.css">
 ```
 
+## 에이투지체
+
+- 디자인 및 제작: 이주임
+- 협업: 오토노머스에이투지
+- 공식 배포처: https://freesentation.blog/a2z
+- 원본 버전: 1.001
+- 라이선스: SIL Open Font License 1.1
+- 제공 두께: 100, 200, 300, 400, 500, 600, 700, 800, 900
+- 라이선스 전문: `licenses/a2z/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 WOFF2
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.10.0/fonts/a2z/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
