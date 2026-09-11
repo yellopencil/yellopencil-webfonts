@@ -181,6 +181,20 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.11.0/fonts/kkubulim/font.css">
 ```
 
+## 이서윤체
+
+- 저작권: 흥국생명보험(주)
+- 제작사: 투게더그룹
+- 공식 라이선스 안내: https://www.sandollcloud.com/free-font/17229/LeeSeoyun
+- 제공 두께: 400
+- 라이선스 안내: `licenses/lee-seoyun/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 OTF
+- 제한사항: 폰트 파일 유료 판매 및 수정·개작 후 재배포 금지
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.12.0/fonts/lee-seoyun/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.

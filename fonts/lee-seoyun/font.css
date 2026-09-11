@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'IsYun';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.12.0/fonts/lee-seoyun/LeeSeoyun-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.iseoyun-font {
+  font-family: 'IsYun', sans-serif !important;
+}
