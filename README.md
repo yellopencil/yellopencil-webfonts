@@ -136,6 +136,21 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.8.0/fonts/isamanru/font.css">
 ```
 
+## 그리운X국한박 오춘기 김작가
+
+- 제작 및 배포: 그리운(GRIUN), 타이비(TypeE)
+- 공식 배포처: https://www.griun.co.kr/fonts/hangeulochungikim
+- 사용범위: 모든 사용 범위에서 자유롭게 사용 가능
+- 재배포: 자유로운 공유 및 무료 배포 가능
+- 제한사항: 폰트 파일 개작·수정·판매 금지
+- 제공 두께: 400
+- 저작권 및 이용 안내: `licenses/griun-ochungi-kim/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 TTF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.9.0/fonts/griun-ochungi-kim/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.

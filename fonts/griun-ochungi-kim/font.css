@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'NostalgicGukhanbakOchungiWriterKim';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.9.0/fonts/griun-ochungi-kim/GriunXHangeul_OCHUNGI.KIM-Rg.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.griun-ochungi-kim-font {
+  font-family: 'NostalgicGukhanbakOchungiWriterKim', sans-serif !important;
+}
