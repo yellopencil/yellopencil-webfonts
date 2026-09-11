@@ -163,9 +163,13 @@
 - 배포 형식: 제작자가 제공한 원본 WOFF2
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.10.0/fonts/a2z/font.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.10.1/fonts/a2z/font.css">
 ```
 
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
+
+## File Naming
+
+CDN 호환성과 URL 안정성을 위해 새로 추가하는 폰트의 폴더명과 파일명은 영문 ASCII로 작성합니다.
