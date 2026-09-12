@@ -326,7 +326,9 @@
 
 @font-face {
   font-family: 'JoseonGulim';
-  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.15.0/fonts/chosun-gulim/ChosunGu.TTF') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.16.0/fonts/chosun-gulim/ChosunGu.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.16.0/fonts/chosun-gulim/ChosunGu.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.16.0/fonts/chosun-gulim/ChosunGu.TTF') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;

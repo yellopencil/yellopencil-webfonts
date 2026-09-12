@@ -233,10 +233,10 @@
 - 제한사항: 배포 대가 청구 및 수정 판매 금지, 배포된 형태 그대로 사용
 - 제공 두께: 400
 - 저작권 및 이용 안내: `licenses/chosun-gulim/LICENSE.txt`
-- 배포 형식: 제작자가 제공한 원본 TTF
+- 배포 형식: 원본 TTF 및 글리프를 변경하지 않고 변환한 WOFF2·WOFF
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.15.0/fonts/chosun-gulim/font.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.16.0/fonts/chosun-gulim/font.css">
 ```
 
 ## License
