@@ -224,6 +224,21 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.14.0/fonts/sb-aggro/font.css">
 ```
 
+## 조선굴림체
+
+- 제작 및 저작권: (주)조선일보사
+- 공식 배포처: https://event.chosun.com/100/100font.html
+- 사용범위: 개인 및 기업 사용자 무료 사용
+- 재배포: 다른 사람에게 원본 파일을 무료로 배포 가능
+- 제한사항: 배포 대가 청구 및 수정 판매 금지, 배포된 형태 그대로 사용
+- 제공 두께: 400
+- 저작권 및 이용 안내: `licenses/chosun-gulim/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 TTF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.15.0/fonts/chosun-gulim/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
