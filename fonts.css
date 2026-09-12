@@ -282,3 +282,16 @@
 .iseoyun-font {
   font-family: 'IsYun', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'Cafe24Surround';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.13.0/fonts/cafe24-surround/Cafe24Ssurround-v2.0.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.13.0/fonts/cafe24-surround/Cafe24Ssurround-v2.0.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.cafe24-surround-font {
+  font-family: 'Cafe24Surround', sans-serif !important;
+}
