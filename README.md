@@ -208,6 +208,22 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.13.0/fonts/cafe24-surround/font.css">
 ```
 
+## 샌드박스 어그로체
+
+- 제작 및 저작권: (주)샌드박스네트워크
+- 공식 배포처: https://www.sandbox.co.kr/company-ci
+- 사용범위: 개인·기업의 영리 및 비영리 목적 사용 가능
+- 재배포: 폰트 파일의 수정, 복제 및 무료 배포 가능
+- 제한사항: 폰트 파일 자체의 유료 판매 금지
+- 제공 두께: Light 300, Medium 500, Bold 700
+- 라이선스 원문: `licenses/sb-aggro/SB-Aggro-Font-License.pdf`
+- 라이선스 안내: `licenses/sb-aggro/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 원본 TTF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.14.0/fonts/sb-aggro/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
