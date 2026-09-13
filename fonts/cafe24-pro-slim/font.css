@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Cafe24PROSlim';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.22.0/fonts/cafe24-pro-slim/Cafe24PROSlimAir.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.22.0/fonts/cafe24-pro-slim/Cafe24PROSlimAir.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cafe24PROSlim';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.22.0/fonts/cafe24-pro-slim/Cafe24PROSlimFit.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.22.0/fonts/cafe24-pro-slim/Cafe24PROSlimFit.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cafe24PROSlim';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.22.0/fonts/cafe24-pro-slim/Cafe24PROSlimMax.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.22.0/fonts/cafe24-pro-slim/Cafe24PROSlimMax.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.cafe24-pro-slim-font {
+  font-family: 'Cafe24PROSlim', sans-serif !important;
+}
