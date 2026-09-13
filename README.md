@@ -285,6 +285,21 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.19.0/fonts/cafe24-moyamoya-face/font.css">
 ```
 
+## 카페24 모야모야
+
+- 제작 및 저작권: 카페24(주)
+- 공식 배포처: https://fonts.cafe24.com/
+- 라이선스: SIL Open Font License 1.1
+- 사용범위: 개인·기업의 상업적 사용, 수정, 복제, 재배포 및 웹 임베딩 가능
+- 제한사항: 폰트 파일 자체의 유료 판매 금지
+- 제공 두께: Regular 400
+- 라이선스 원문: `licenses/cafe24-moyamoya/License-Moyamoya.pdf`
+- 배포 형식: 제작자가 제공한 원본 WOFF2 및 WOFF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.20.0/fonts/cafe24-moyamoya/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.

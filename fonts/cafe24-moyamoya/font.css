@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cafe24Moyamoya';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.20.0/fonts/cafe24-moyamoya/Cafe24Moyamoya-Regular-v1.0.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.20.0/fonts/cafe24-moyamoya/Cafe24Moyamoya-Regular-v1.0.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.cafe24-moyamoya-font {
+  font-family: 'Cafe24Moyamoya', sans-serif !important;
+}
