@@ -431,3 +431,23 @@
 .paperlogy-font {
   font-family: 'Paperozi', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'PyeongChangPeace';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.18.0/fonts/pyeongchang-peace/PyeongChangPeace-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PyeongChangPeace';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.18.0/fonts/pyeongchang-peace/PyeongChangPeace-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.pyeongchang-peace-font {
+  font-family: 'PyeongChangPeace', sans-serif !important;
+}

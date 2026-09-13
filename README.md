@@ -255,6 +255,21 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.17.0/fonts/paperlogy/font.css">
 ```
 
+## 평창평화체
+
+- 제작 및 지적재산권: 평창군
+- 공식 배포처: https://www.pc.go.kr/portal/intro/intro-summary/pcFont/font01
+- 사용범위: 개인 및 기업 사용자 무료 사용
+- 재배포: 원본 파일의 무료 배포 가능
+- 제한사항: 복사·배포 대가 요구, 수정 후 배포 및 판매 금지
+- 제공 두께: Light 300, Bold 700
+- 라이선스 안내: `licenses/pyeongchang-peace/LICENSE.txt`
+- 배포 형식: 제작자가 제공한 Windows용 원본 TTF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.18.0/fonts/pyeongchang-peace/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
