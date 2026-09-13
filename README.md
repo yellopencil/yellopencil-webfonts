@@ -239,6 +239,22 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.16.0/fonts/chosun-gulim/font.css">
 ```
 
+## 페이퍼로지
+
+- 기획: 김도균(페이퍼로지)
+- 리디자인 및 제작: 이주임(피티꾼)
+- 공식 배포처: https://freesentation.blog/paperlogyfont
+- 라이선스: SIL Open Font License 1.1
+- 사용범위: 상업적 사용, 수정 및 재배포 가능
+- 제한사항: 글꼴 단독 판매 및 라이선스 변경 금지
+- 제공 두께: Thin 100, ExtraLight 200, Light 300, Regular 400, Medium 500, SemiBold 600, Bold 700, ExtraBold 800, Black 900
+- 라이선스 원문: `licenses/paperlogy/LICENSE.txt`
+- 배포 형식: 원본 TTF 및 웹용으로 변환한 WOFF2·WOFF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.17.0/fonts/paperlogy/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
