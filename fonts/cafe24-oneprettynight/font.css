@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cafe24Oneprettynight';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.26.0/fonts/cafe24-oneprettynight/Cafe24Oneprettynight-v2.0.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.26.0/fonts/cafe24-oneprettynight/Cafe24Oneprettynight-v2.0.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.cafe24-oneprettynight-font {
+  font-family: 'Cafe24Oneprettynight', sans-serif !important;
+}
