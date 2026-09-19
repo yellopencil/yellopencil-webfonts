@@ -556,3 +556,16 @@
 .cafe24-classictype-font {
   font-family: 'Cafe24Classictype', serif !important;
 }
+
+@font-face {
+  font-family: 'Cafe24Shiningstar';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.25.0/fonts/cafe24-shiningstar/Cafe24Shiningstar-v2.0.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.25.0/fonts/cafe24-shiningstar/Cafe24Shiningstar-v2.0.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.cafe24-shiningstar-font {
+  font-family: 'Cafe24Shiningstar', sans-serif !important;
+}
