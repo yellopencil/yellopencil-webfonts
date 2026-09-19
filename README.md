@@ -332,6 +332,23 @@
 
 Air, Fit, Max를 하나의 `Cafe24PROSlim` 패밀리로 묶어 각각 300, 500, 700 두께로 제공합니다.
 
+## 카페24 슈퍼매직
+
+- 제작 및 저작권: 카페24(주)
+- 공식 배포처: https://fonts.cafe24.com/
+- 라이선스: SIL Open Font License 1.1
+- 사용범위: 개인·기업의 상업적 사용, 수정, 복제, 재배포 및 웹 임베딩 가능
+- 제한사항: 폰트 파일 자체의 유료 판매 금지
+- 제공 두께: Regular 400, Bold 700
+- 라이선스 원문: `licenses/cafe24-supermagic/License-Supermagic.pdf`
+- 배포 형식: 제작자가 제공한 원본 WOFF2 및 WOFF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.23.0/fonts/cafe24-supermagic/font.css">
+```
+
+Regular와 Bold를 하나의 `Cafe24Supermagic` 패밀리로 묶어 각각 400, 700 두께로 제공합니다.
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
