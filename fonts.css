@@ -608,3 +608,16 @@
 .cafe24-danjunghae-font {
   font-family: 'Cafe24Danjunghae', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'Cafe24Simplehae';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.29.0/fonts/cafe24-simplehae/Cafe24Simplehae-v2.0.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.29.0/fonts/cafe24-simplehae/Cafe24Simplehae-v2.0.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.cafe24-simplehae-font {
+  font-family: 'Cafe24Simplehae', sans-serif !important;
+}
