@@ -643,3 +643,25 @@
 .cafe24-dongdong-font {
   font-family: 'Cafe24Dongdong', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'Cafe24Ssukssuk';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.31.0/fonts/cafe24-ssukssuk/Cafe24SsukssukLight.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.31.0/fonts/cafe24-ssukssuk/Cafe24SsukssukLight.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cafe24Ssukssuk';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.31.0/fonts/cafe24-ssukssuk/Cafe24SsukssukRegular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.31.0/fonts/cafe24-ssukssuk/Cafe24SsukssukRegular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.cafe24-ssukssuk-font {
+  font-family: 'Cafe24Ssukssuk', sans-serif !important;
+}
