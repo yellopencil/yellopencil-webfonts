@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'GyeonggiMillenniumTitle';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.33.0/fonts/gyeonggi-millennium-title/GyeonggiMillenniumTitle-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GyeonggiMillenniumTitle';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.33.0/fonts/gyeonggi-millennium-title/GyeonggiMillenniumTitle-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GyeonggiMillenniumTitle';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.33.0/fonts/gyeonggi-millennium-title/GyeonggiMillenniumTitle-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.gyeonggi-millennium-title-font {
+  font-family: 'GyeonggiMillenniumTitle', sans-serif !important;
+}

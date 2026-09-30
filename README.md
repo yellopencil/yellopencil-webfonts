@@ -488,6 +488,22 @@ Ssukssuk Light와 Ssukssuk Regular를 하나의 `Cafe24Ssukssuk` 패밀리로 �
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.32.0/fonts/cafe24-syongsyong/font.css">
 ```
 
+## 경기천년제목
+
+경기천년제목 Light, Medium, Bold를 하나의 `GyeonggiMillenniumTitle` 패밀리로 묶어 각각 300, 500, 700 두께로 제공합니다. 세로쓰기 전용 `TitleV`는 포함하지 않습니다.
+
+- 제작 및 저작권: 경기도
+- 공식 배포처: https://www.gg.go.kr/contents/contents.do?ciIdx=679&menuId=2457
+- 사용범위: 웹·영상·인쇄·로고·간판 등에서 무료 사용 및 프로그램 탑재·배포 가능
+- 제한사항: 폰트 파일 자체의 판매 또는 유료 양도 금지
+- 제공 두께: Light 300, Medium 500, Bold 700
+- 라이선스 및 출처 안내: `licenses/gyeonggi-millennium-title/LICENSE.txt`
+- 배포 형식: 경기도가 제공한 웹폰트용 원본 WOFF
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.33.0/fonts/gyeonggi-millennium-title/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.
