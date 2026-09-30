@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'GyeonggiMillenniumBatang';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.34.0/fonts/gyeonggi-millennium-batang/GyeonggiMillenniumBatang-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GyeonggiMillenniumBatang';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.34.0/fonts/gyeonggi-millennium-batang/GyeonggiMillenniumBatang-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.gyeonggi-millennium-batang-font {
+  font-family: 'GyeonggiMillenniumBatang', serif !important;
+}
