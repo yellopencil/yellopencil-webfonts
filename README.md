@@ -520,6 +520,22 @@ Ssukssuk Light와 Ssukssuk Regular를 하나의 `Cafe24Ssukssuk` 패밀리로 �
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.34.0/fonts/gyeonggi-millennium-batang/font.css">
 ```
 
+## 학교안심 알림장
+
+Regular와 B를 `SchoolSafetyAllimjang` 패밀리로 묶어 제공합니다.
+
+- 저작권자: KERIS / 제작사: 헤움디자인
+- 공식 배포처: https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202408200000000000007
+- 라이선스: SIL Open Font License 1.1 (전문 포함)
+- 제공 굵기: Regular 400, B 600 (원본 OS/2 메타데이터 기준)
+- 원본 파일: `Hakgyoansim Allimjang TTF R.ttf`, `Hakgyoansim Allimjang TTF B.ttf`
+- 배포 형식: 원본 TTF 보존, WOFF2 우선·WOFF 보조로 무손실 변환
+- 라이선스: `licenses/school-safety-allimjang/LICENSE.txt`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.35.0/fonts/school-safety-allimjang/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.

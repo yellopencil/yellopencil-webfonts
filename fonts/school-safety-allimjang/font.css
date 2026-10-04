@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'SchoolSafetyAllimjang';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.35.0/fonts/school-safety-allimjang/HakgyoansimAllimjang-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.35.0/fonts/school-safety-allimjang/HakgyoansimAllimjang-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SchoolSafetyAllimjang';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.35.0/fonts/school-safety-allimjang/HakgyoansimAllimjang-Bold.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.35.0/fonts/school-safety-allimjang/HakgyoansimAllimjang-Bold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+.school-safety-allimjang-font {
+  font-family: 'SchoolSafetyAllimjang', sans-serif !important;
+}
