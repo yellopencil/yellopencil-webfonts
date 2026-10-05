@@ -536,6 +536,20 @@ Regular와 B를 `SchoolSafetyAllimjang` 패밀리로 묶어 제공합니다.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.35.0/fonts/school-safety-allimjang/font.css">
 ```
 
+## 학교안심 보드마카
+
+- 저작권자: KERIS / 제작사: 투게더그룹
+- 공식 배포처: https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202510270000000000002
+- 라이선스: SIL Open Font License 1.1 (전문 포함)
+- 패밀리: `SchoolSafetyBoardmarker` / 굵기: Regular 400
+- 원본 파일: `Hakgyoansim_BoardmarkerR.ttf`
+- 배포 형식: 원본 TTF 보존, WOFF2 우선·WOFF 보조
+- 라이선스: `licenses/school-safety-boardmarker/LICENSE.txt`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.36.0/fonts/school-safety-boardmarker/font.css">
+```
+
 ## License
 
 각 폰트의 저작권과 라이선스는 해당 폰트의 제작자에게 있습니다. 폰트별 라이선스 원문과 공식 배포처를 반드시 확인해 주세요. 폰트 파일 자체의 유료 판매는 허용되지 않습니다.

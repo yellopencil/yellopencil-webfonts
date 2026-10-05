@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SchoolSafetyBoardmarker';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.36.0/fonts/school-safety-boardmarker/HakgyoansimBoardmarker-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.36.0/fonts/school-safety-boardmarker/HakgyoansimBoardmarker-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.school-safety-boardmarker-font {
+  font-family: 'SchoolSafetyBoardmarker', sans-serif !important;
+}
