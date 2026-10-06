@@ -761,3 +761,16 @@
 .school-safety-boardmarker-font {
   font-family: 'SchoolSafetyBoardmarker', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'SchoolSafetyRecorder';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.37.0/fonts/school-safety-recorder/HakgyoansimRecorder-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.37.0/fonts/school-safety-recorder/HakgyoansimRecorder-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.school-safety-recorder-font {
+  font-family: 'SchoolSafetyRecorder', sans-serif !important;
+}
