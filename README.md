@@ -571,3 +571,20 @@ Regular와 B를 `SchoolSafetyAllimjang` 패밀리로 묶어 제공합니다.
 ## File Naming
 
 CDN 호환성과 URL 안정성을 위해 새로 추가하는 폰트의 폴더명과 파일명은 영문 ASCII로 작성합니다.
+
+## 학교안심 콧수염
+
+- 저작권자: KERIS
+- 제작사: 디자인210
+- 공식 배포 및 라이선스: https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202312110000000000021
+- 라이선스: SIL Open Font License 1.1 (저작권 안내와 전문 동봉)
+- 제공 굵기: Regular 400
+- 원본: `HakgyoansimKossuyeomR.ttf`
+- 배포 형식: 원본 TTF, 공식 WOFF, 변환 WOFF2
+- 라이선스: `licenses/school-safety-kossuyeom/LICENSE.txt`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.38.0/fonts/school-safety-kossuyeom/font.css">
+```
+
+`.school-safety-kossuyeom-font` 클래스로 적용할 수 있습니다.

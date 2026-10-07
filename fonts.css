@@ -774,3 +774,16 @@
 .school-safety-recorder-font {
   font-family: 'SchoolSafetyRecorder', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'SchoolSafetyKossuyeom';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.38.0/fonts/school-safety-kossuyeom/HakgyoansimKossuyeom-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.38.0/fonts/school-safety-kossuyeom/HakgyoansimKossuyeom-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.school-safety-kossuyeom-font {
+  font-family: 'SchoolSafetyKossuyeom', sans-serif !important;
+}
