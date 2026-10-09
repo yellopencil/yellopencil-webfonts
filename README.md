@@ -588,3 +588,22 @@ CDN 호환성과 URL 안정성을 위해 새로 추가하는 폰트의 폴더명
 ```
 
 `.school-safety-kossuyeom-font` 클래스로 적용할 수 있습니다.
+
+## 더잠실체
+
+- 저작권자: 롯데쇼핑(주) 롯데마트사업부
+- 공식 배포: https://company.lottemart.com/company/font_jamsil.asp
+- 라이선스: 롯데마트 자체 사용규정 (OFL 아님)
+- 재배포 조건: 저작권 안내와 라이선스 전문 포함
+- 제한: 수정 및 다른 포맷으로의 변환, BI/CI 사용, 폰트 자체 유료 판매 금지
+- 배포 형식: 원본 TTF 6종 (바이너리 내용 변경 없음)
+- 제공 굵기: 100, 300, 400, 500, 700, 800
+- Thin의 내부 weight 값은 300이며 공식 스타일명에 맞춰 CSS에서만 100으로 매핑합니다. 폰트 파일은 수정하지 않았습니다.
+- 원본 라이선스: `licenses/the-jamsil/The_Jamsil_LICENSE_Korean.pdf`
+- 저작권 안내 및 텍스트 전문: `licenses/the-jamsil/LICENSE.txt`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.39.0/fonts/the-jamsil/font.css">
+```
+
+`.the-jamsil-font` 클래스로 적용하고 `font-weight`로 굵기를 선택할 수 있습니다.
