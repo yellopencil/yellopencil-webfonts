@@ -842,7 +842,7 @@
 
 @font-face {
   font-family: 'NmfClassic';
-  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.40.0/fonts/nmf-classic/NmfClassic-Light.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.41.0/fonts/nmf-classic/NmfClassic-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -850,7 +850,7 @@
 
 @font-face {
   font-family: 'NmfClassic';
-  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.40.0/fonts/nmf-classic/NmfClassic-Medium.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.41.0/fonts/nmf-classic/NmfClassic-Medium.otf') format('opentype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -858,7 +858,7 @@
 
 @font-face {
   font-family: 'NmfClassic';
-  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.40.0/fonts/nmf-classic/NmfClassic-Bold.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.41.0/fonts/nmf-classic/NmfClassic-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;

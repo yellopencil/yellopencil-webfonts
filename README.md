@@ -614,13 +614,15 @@ CDN 호환성과 URL 안정성을 위해 새로 추가하는 폰트의 폴더명
 - 공식 배포 및 이용조건: https://www.nmf.or.kr/agency/sub/20181024100034469100_contents.do
 - 라이선스: 재단 자체 사용 및 저작권 안내 (OFL 아님)
 - 원본 재배포 허용, 무단 수정 및 글꼴 자체 유료 판매 금지
-- 배포 형식: 원본 TTF 3종, 포맷 및 바이너리 내용 변경 없음
+- 배포 형식: Light/Bold 원본 TTF, Medium 원본 OTF (포맷 변환 및 바이너리 변경 없음)
 - 패밀리: `NmfClassic` / Light 300, Medium 500, Bold 700
 - 내부 weight 값은 모두 400이며 내부 스타일명을 기준으로 CSS에서만 매핑합니다.
 - 이용조건 전문: `licenses/nmf-classic/LICENSE.txt`
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.40.0/fonts/nmf-classic/font.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.41.0/fonts/nmf-classic/font.css">
 ```
 
 `.nmf-classic-font` 클래스로 적용하고 `font-weight`로 굵기를 선택할 수 있습니다.
+
+Medium TTF는 브라우저 OTS 검사에서 kern 테이블 오류가 발생하여 v1.41.0부터 정상 작동하는 원본 OTF를 사용합니다. 기존 TTF 경로는 보존합니다.

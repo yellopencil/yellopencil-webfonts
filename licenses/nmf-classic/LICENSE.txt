@@ -15,3 +15,5 @@ Copyright (c) Cultural Foundation of National Museum of Korea. All rights reserv
 국립박물관문화재단클래식B.ttf -> NmfClassic-Bold.ttf
 세 파일의 OS/2 usWeightClass는 모두 400입니다. 내부 스타일명 Light/Medium/Bold에 따라 CSS에서만 300/500/700으로 매핑합니다.
 이 서체는 OFL로 등록하지 않았습니다. 공식 페이지 하단의 공공누리 표시와 별개로 위 서체 전용 안내를 기록하며, 사이트 이미지 및 다른 콘텐츠는 포함하지 않습니다.
+
+2026-10-10 / v1.41.0: Medium 웹폰트는 원본 국립박물관문화재단클래식M.otf를 NmfClassic-Medium.otf로 내용 변경 없이 복사해 사용합니다. 기존 Medium TTF는 브라우저 kern 테이블 검사 오류가 있어 CSS에서 사용하지 않습니다.
