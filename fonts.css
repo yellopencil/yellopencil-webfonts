@@ -839,3 +839,31 @@
 .the-jamsil-font {
   font-family: 'TheJamsil', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'NmfClassic';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.40.0/fonts/nmf-classic/NmfClassic-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NmfClassic';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.40.0/fonts/nmf-classic/NmfClassic-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NmfClassic';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.40.0/fonts/nmf-classic/NmfClassic-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.nmf-classic-font {
+  font-family: 'NmfClassic', serif !important;
+}
