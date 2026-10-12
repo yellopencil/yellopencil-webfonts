@@ -1,0 +1,28 @@
+어비 세현체 / UhBee Sehyun
+저작자: 어비(송태민)
+원본 폰트 저작권 메타데이터: Made with Scanahand. Copyright © uhbee.com 2012. All Rights Reserved.
+확인일: 2026-10-12
+현재 공식 사이트: https://uhb.kr/uhbeefont/#license
+기존 공식 서체 페이지: http://uhbeefont.com/font/w/UhBeeSe_hyun.html
+
+현재 공식 사이트의 "어비폰트 무료 배포 라이선스" 전문:
+01 개인 사용
+일기, 손편지, 블로그까지 — 자유롭게 사용하세요.
+02 상업 이용
+인쇄물, 광고, 브랜드, 이모티콘, 굿즈, 영상 자막까지 모두 가능합니다.
+03 변형 · 임베드
+로고, BI, 웹폰트 임베드, 변형 후 재배포까지 허용합니다.
+04 금지
+폰트 파일 자체를 유료로 판매하거나 조건부 교환하는 행위는 금지합니다.
+
+기존 공식 서체 페이지 주의점 전문:
+주의점: 어비폰트는 무료로 제공되는 폰트입니다.
+어비폰트를 가공하여 apk, WebFont 등의 모든 변환 결과물들은 무료로 제공되어야만 합니다.
+유료판매나 조건부 교환은 법적책임을 물게 됩니다.
+
+배포 기록 (옐로펜슬 작성):
+제공된 UhBeeSe_hyun.woff 원본을 바이너리 및 포맷 변경 없이 무료 배포합니다.
+OS/2 usWeightClass 400, Regular 1종입니다. EOT는 구형 IE용으로 이번 배포에 포함하지 않았습니다.
+Original-Webfont.css는 사용자가 제공한 제작자 원본 CSS를 보존한 참고 자료이며 배포용 font.css와 다릅니다.
+원본 CSS의 article/textarea 전역 스타일은 배포용 CSS에 넣지 않았습니다.
+이 라이선스는 제작자 자체 안내이며 SIL OFL로 등록하지 않았습니다.

@@ -626,3 +626,21 @@ CDN 호환성과 URL 안정성을 위해 새로 추가하는 폰트의 폴더명
 `.nmf-classic-font` 클래스로 적용하고 `font-weight`로 굵기를 선택할 수 있습니다.
 
 Medium TTF는 브라우저 OTS 검사에서 kern 테이블 오류가 발생하여 v1.41.0부터 정상 작동하는 원본 OTF를 사용합니다. 기존 TTF 경로는 보존합니다.
+
+## 어비 세현체
+
+- 저작자: 어비(송태민)
+- 공식 사이트 및 라이선스: https://uhb.kr/uhbeefont/#license
+- 기존 서체 페이지: http://uhbeefont.com/font/w/UhBeeSe_hyun.html
+- 라이선스: 어비폰트 무료 배포 라이선스 (제작자 자체 안내, OFL 아님)
+- 웹폰트 임베드 및 재배포 허용, 폰트 자체 유료 판매 및 조건부 교환 금지
+- 패밀리: `UhBeeSe_hyun` / Regular 400
+- 배포 형식: 제작자 제공 원본 WOFF, 바이너리 및 포맷 변경 없음
+- 이용조건 전문: `licenses/uhbee-sehyun/LICENSE.txt`
+- 원본 CSS 보존: `licenses/uhbee-sehyun/Original-Webfont.css`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.42.0/fonts/uhbee-sehyun/font.css">
+```
+
+`.uhbee-sehyun-font` 클래스로 적용할 수 있습니다.
