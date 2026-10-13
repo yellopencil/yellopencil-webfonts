@@ -644,3 +644,22 @@ Medium TTF는 브라우저 OTS 검사에서 kern 테이블 오류가 발생하�
 ```
 
 `.uhbee-sehyun-font` 클래스로 적용할 수 있습니다.
+
+## 가나초콜릿체
+
+- 저작권자: 롯데제과 (현 롯데웰푸드)
+- 공식 소개: https://www.lottewellfood.com/prcenter/gana
+- 재배포 근거: 공유마당 OFL 등록 정보 (https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200195&wrtSn=13262104)
+- 첨부 TTF와 공유마당 원본 바이너리 일치 확인
+- 원본 자체에는 OFL 표기가 없으며 롯데 가이드에는 무료 재배포 조항이 없어, 공유마당 등록을 적용 근거로 기록합니다.
+- 패밀리: `Ghanachocolate` / Regular 400
+- 배포 형식: 원본 TTF, 포맷 및 바이너리 변경 없음
+- 저작권 고지 및 OFL 전문: `licenses/ghana-chocolate/LICENSE.txt`
+- 출처 및 검증 기록: `licenses/ghana-chocolate/SOURCE.txt`
+- 원본 가이드: `licenses/ghana-chocolate/Ghana_guide.pdf`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.43.0/fonts/ghana-chocolate/font.css">
+```
+
+`.ghana-chocolate-font` 클래스로 적용할 수 있습니다.

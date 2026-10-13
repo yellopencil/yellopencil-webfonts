@@ -879,3 +879,15 @@
 .uhbee-sehyun-font {
   font-family: 'UhBeeSe_hyun', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'Ghanachocolate';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.43.0/fonts/ghana-chocolate/Ghanachocolate.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.ghana-chocolate-font {
+  font-family: 'Ghanachocolate', serif !important;
+}

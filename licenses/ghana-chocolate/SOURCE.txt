@@ -1,0 +1,21 @@
+가나초콜릿체 배포 근거 및 확인 기록
+확인일: 2026-10-13
+저작권자: 롯데제과 (현 롯데웰푸드)
+폰트 내부 저작권: © 2020 by LOTTE CONFECTIONERY CO.LTD. All rights reserved.
+원본 파일명: Ghanachocolate.ttf
+굵기: Regular 400
+파일 크기: 1278860 bytes
+SHA-256: c0776e24ab5f473cb4d66a3369abe26fa7399775e501a0c601a070eec83e2f5e
+
+배포 근거: 한국저작권위원회 공유마당의 해당 파일 OFL 등록 정보
+상세페이지: https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?menuNo=200195&wrtSn=13262104
+원본 TTF: https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=13262104&fileSn=3
+공유마당 상세 HTML의 해당 저작물 licenseCd=30 (OFL)를 확인했습니다.
+첨부 파일과 공유마당 제공 TTF의 바이너리 일치를 확인했습니다.
+폰트 파일 자체에는 OFL 문구가 없습니다. OFL 적용 근거는 위 공유마당 등록 정보입니다.
+저작권자 공식 페이지: https://www.lottewellfood.com/prcenter/gana
+공식 가이드: Ghana_guide.pdf (제공받은 원본 보존)
+공식 가이드에는 무료 사용 및 폰트 자체 유료 양도/판매 금지를 명시하지만 무료 재배포 또는 OFL 조항은 없습니다. 이 차이를 숨기지 않고 기록합니다.
+LICENSE.txt에 공유마당 OFL 배포 근거 및 저작권 고지, SIL OFL 1.1 전문을 포함했습니다.
+OFL 전문 원문: https://openfontlicense.org/documents/OFL.txt
+Reserved Font Name은 확인된 자료에 별도로 명시되어 있지 않습니다. 이 등록에서는 변환/수정 없이 원본 TTF만 제공합니다.
