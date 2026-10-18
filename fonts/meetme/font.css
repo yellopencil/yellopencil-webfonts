@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Meetme';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.44.0/fonts/meetme/Ongeulip-Meetme.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.meetme-font {
+  font-family: 'Meetme', sans-serif !important;
+}

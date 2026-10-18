@@ -663,3 +663,22 @@ Medium TTF는 브라우저 OTS 검사에서 kern 테이블 오류가 발생하�
 ```
 
 `.ghana-chocolate-font` 클래스로 적용할 수 있습니다.
+
+## 밑미 폰트 (온글잎 밑미)
+
+- 저작권자: (주)밑미, (주)보이저엑스
+- 공식 소개 및 이용조건: https://nicetomeetme.kr/font
+- 라이선스: 제작자 자체 라이선스 (OFL 아님)
+- 개인·기업의 상업적 사용 및 무료 재배포 허용
+- 임의 수정·편집 및 폰트 자체 유료 판매 금지, 출처 표기 권장
+- 배포 형식: 원본 TTF, 바이너리 및 포맷 변경 없음
+- 패밀리: `Meetme` / Regular 400
+- 원본 내부 패밀리명: Ownglyph meetme / 온글잎 밑미
+- 저작권 및 이용조건 전문: `licenses/meetme/LICENSE.txt`
+- 라이선스 원본: `licenses/meetme/Meetme-Font-License.docx`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.44.0/fonts/meetme/font.css">
+```
+
+`.meetme-font` 클래스로 적용할 수 있습니다.

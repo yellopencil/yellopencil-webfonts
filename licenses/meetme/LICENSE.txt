@@ -1,0 +1,21 @@
+밑미 폰트 (온글잎 밑미)
+공식 배포 및 이용조건: https://nicetomeetme.kr/font
+확인일: 2026-10-18
+저작권자: (주)밑미, (주)보이저엑스
+원본 파일: Ongeulip-Meetme.ttf
+원본 파일 저작권 고지:
+Copyright © 2022 VoyagerX, inc. & meet me, All rights reserved. Modification of this file requires prior written permission from VoyagerX, inc. & meet me
+Copyright © 2022 (주)보이저엑스 & 주식회사 밑미, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 (주)보이저엑스 & 주식회사 밑미의 사전 허가를 받아야 합니다.
+
+제공된 Meetme-Font-License.docx 전문:
+밑미 폰트를 사용하시기 전 아래 라이선스 본문을 읽어주세요!
+• 제공되는 서체의 지적 재산권을 포함한 모든 권리는 (주)밑미와 (주)보이저엑스에 있습니다.
+• 서체는 개인 및 기업 사용자를 포함한 사용자에게 무료로 제공되며 자유롭게 사용 및 배포하실 수 있습니다. (상업적인 용도로 사용 가능)
+• 임의로 수정, 편집 등을 할 수 없으며 배포되는 형태 그대로 사용해야 합니다. 서체를 유료로 판매되는 것은 금지됩니다.
+• 서체의 출처 표기를 권장합니다.
+
+배포 기록 (옐로펜슬 작성, 위 이용조건을 변경하지 않음):
+이 폰트는 제작자 자체 라이선스이며 SIL OFL로 등록하지 않았습니다.
+원본 TTF를 바이너리 및 포맷 변경 없이 제공합니다. Regular 400 한 종입니다.
+원본 SHA-256: 7a30b29de569b4d0e79bee49831c6e1a6fc52fb6028a6346e7f29756a1cdd430
+라이선스 DOCX 원본을 같은 폴더의 Meetme-Font-License.docx에 보존합니다.
