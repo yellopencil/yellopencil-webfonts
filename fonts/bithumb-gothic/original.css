@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'BithumbGothicOriginal';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.45.0/fonts/bithumb-gothic/BithumbGothic-Original.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.bithumb-gothic-original-font {
+  font-family: 'BithumbGothicOriginal', sans-serif !important;
+  font-weight: 700;
+}

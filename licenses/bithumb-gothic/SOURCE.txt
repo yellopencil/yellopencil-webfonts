@@ -1,0 +1,14 @@
+빗썸고딕 Original / Basic 배포 기록
+확인일: 2026-10-21
+공식 소개 및 라이선스: https://bithumbcorp.com/ko/promotion/font.php
+라이선스: SIL Open Font License 1.1 (공식 페이지 및 두 폰트의 nameID 13에 명시)
+OFL 전문 출처: https://openfontlicense.org/documents/OFL.txt
+공식 페이지는 무료 상업적 사용, 서체 수정 및 재배포(동일 라이선스 적용)를 허용하고 폰트 자체 단독 판매 및 수정본의 빗썸고딕 명칭 사용을 금지합니다.
+두 원본 모두 OS/2 usWeightClass 700입니다.
+Basic의 내부 subfamily는 Bold, typographic subfamily는 Basic입니다.
+Original의 내부 subfamily는 Bold Italic, typographic subfamily는 Original입니다.
+두 스타일을 굵기로 구분하지 않고 별도 CSS family로 제공합니다.
+Original의 기울기는 원본에 포함된 디자인입니다. 독립 스타일을 기본 선택할 수 있도록 각 CSS family의 font-style을 normal로 등록합니다. 파일 내부 스타일·글리프·메타데이터는 수정하지 않습니다.
+TTF 원본 그대로 복사했으며 변환, 서브셋, 재저장하지 않았습니다.
+Original: Bithumb Gothic Original.ttf -> BithumbGothic-Original.ttf; SHA-256 9a88be803d14738ae4ce2b81b9ccbb1ae9f6525baca3a754a8406cb39ca5373f
+Basic: Bithumb Gothic Basic.ttf -> BithumbGothic-Basic.ttf; SHA-256 8f4731d4450fa2326ba1299a67232d8c3e4cd71e3825a1b477cfc270b61868a2

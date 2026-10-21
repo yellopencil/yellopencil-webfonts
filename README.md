@@ -682,3 +682,24 @@ Medium TTF는 브라우저 OTS 검사에서 kern 테이블 오류가 발생하�
 ```
 
 `.meetme-font` 클래스로 적용할 수 있습니다.
+
+## 빗썸고딕 Original / Basic
+
+- 공식 소개 및 이용조건: https://bithumbcorp.com/ko/promotion/font.php
+- 라이선스: SIL Open Font License 1.1
+- 저작권: Bithumb Co., Ltd. / 기반 서체 Gmarket Sans 저작권 고지 함께 보존
+- 두 파일 모두 700이며 굵기가 아닌 별도 스타일입니다.
+- Original: 기울어진 대표 스타일 / 패밀리 `BithumbGothicOriginal`
+- Basic: 반듯한 정체 / 패밀리 `BithumbGothicBasic`
+- 배포 형식: 원본 TTF, 바이너리 내용 변경 없음
+- 각 family는 독립 디자인으로 font-style: normal에 등록하며 Original의 기울기는 원본 디자인입니다.
+- 라이선스 전문: `licenses/bithumb-gothic/LICENSE.txt`
+- 파일 출처·굵기·원본 해시: `licenses/bithumb-gothic/SOURCE.txt`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.45.0/fonts/bithumb-gothic/font.css">
+```
+
+적용 클래스: `bithumb-gothic-original-font`, `bithumb-gothic-basic-font`. 각각 700으로 적용합니다.
+
+한 종류만 필요한 경우 같은 폴더의 `original.css` 또는 `basic.css`를 사용할 수 있습니다.
