@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'HippieChe';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.46.0/fonts/hippie/HippieChe-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.hippie-font {
+  font-family: 'HippieChe', sans-serif !important;
+}

@@ -703,3 +703,21 @@ Medium TTF는 브라우저 OTS 검사에서 kern 테이블 오류가 발생하�
 적용 클래스: `bithumb-gothic-original-font`, `bithumb-gothic-basic-font`. 각각 700으로 적용합니다.
 
 한 종류만 필요한 경우 같은 폴더의 `original.css` 또는 `basic.css`를 사용할 수 있습니다.
+
+## 히피체
+
+- 제작자: AI올컷 / AIollcut
+- 공식 배포 및 이용조건: https://blog.naver.com/aiollcut/224424018271
+- 라이선스: SIL Open Font License 1.1, 공식 글과 원본 폰트 내부 모두 확인
+- 무료 상업적 사용 및 OFL 조건에 따른 수정·재배포 가능, 폰트 단독 유료 판매 금지
+- 저작권 고지와 라이선스를 함께 보존하며 제작자를 사칭하지 않습니다.
+- 배포 형식: 원본 TTF, 바이너리·메타데이터 변경 없음
+- 패밀리: `HippieChe` / Regular 400
+- 라이선스 전문: `licenses/hippie/LICENSE.txt`
+- 출처·원본 파일명·해시: `licenses/hippie/SOURCE.txt`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.46.0/fonts/hippie/font.css">
+```
+
+적용 클래스: `hippie-font`.

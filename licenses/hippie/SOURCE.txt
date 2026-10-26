@@ -1,0 +1,18 @@
+Font: 히피체 / HippieChe
+Creator: AI올컷 / AIollcut
+Official source: https://blog.naver.com/aiollcut/224424018271
+Checked: 2026-10-27
+Original filename: 히피체.ttf
+Distributed filename: HippieChe-Regular.ttf
+SHA256: 1dcb2790b53f54131be2ee0f08dc825b2dfeae6847573c507cc5ef196723f6f8
+Format: original TTF; binary contents and metadata unchanged.
+Weight: OS/2 usWeightClass 400; subfamily Regular.
+License: SIL Open Font License 1.1, embedded nameID 13.
+Copyright: Copyright (c) 2026 AIollcut.
+
+Official blog license notice (transcribed):
+히피체는 SIL Open Font License 1.1에 따라 개인 및 상업적 용도로 무료로 사용할 수 있어요.
+폰트 파일 자체를 단독으로 유료 판매하는 것은 금지됩니다.
+수정 및 재배포 시에는 OFL 조건을 준수하고, 저작권 고지와 라이선스를 함께 포함해야 합니다.
+단, 히피체 폰트 파일 자체를 본인이 제작한 것처럼 재배포하거나 판매하는 행위는 금지합니다.
+© AI올컷. 히피체
