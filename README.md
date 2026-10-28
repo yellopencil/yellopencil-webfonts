@@ -721,3 +721,21 @@ Medium TTF는 브라우저 OTS 검사에서 kern 테이블 오류가 발생하�
 ```
 
 적용 클래스: `hippie-font`.
+
+## 차이 상승체
+
+- 제작자 및 권리자: 차이커뮤니케이션 / CHAI
+- 공식 소개·라이선스: https://www.artistchai.co.kr/#/pride/identity_font (차이 상승체 탭)
+- 제작자 자체 라이선스이며 OFL이 아닙니다.
+- 저작권 안내와 라이선스 전문을 포함한 원본 재배포 허용
+- 임의 수정·개작·TTF/OTF 변형 및 폰트 파일 자체 유료 판매 금지
+- 원본 TTF 그대로 배포하며 바이너리·내부 이름·메타데이터를 변경하지 않았습니다.
+- 패밀리: `RisingCHAI` / Light 300, Extra Bold 800
+- 라이선스 전문: `licenses/rising-chai/LICENSE.txt`
+- 원본 출처·굵기·해시: `licenses/rising-chai/SOURCE.txt`
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.47.0/fonts/rising-chai/font.css">
+```
+
+적용 클래스: `rising-chai-font`. `font-weight: 300` 또는 `800`으로 굵기를 선택합니다.

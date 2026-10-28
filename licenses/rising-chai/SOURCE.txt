@@ -1,0 +1,18 @@
+Font: 차이 상승체 / Rising CHAI
+Copyright (c) 2024 by CHAI. All rights reserved.
+Official page: https://www.artistchai.co.kr/#/pride/identity_font
+Official download: https://www.artistchai.co.kr/font/TTF.zip
+Checked: 2026-10-28
+License: CHAI custom license, not OFL.
+LICENSE.txt transcribes the complete Rising CHAI license dialog plus embedded copyright.
+Original TTF files supplied by user, unchanged bytes, metadata and filenames.
+No format conversion. CSS groups the two weights without modifying the font files.
+Weights verified from OS/2 usWeightClass (300, 800).
+
+Rising_CHAI_Light.ttf
+Weight: 300
+SHA256: 6097191d3d36fccaab2953f171980201d0b6f5ed8b9c07484bf8980c1a954fc3
+
+Rising_CHAI_Extra_Bold.ttf
+Weight: 800
+SHA256: 19431f1ddc2d22f09730685aacb1e4dd4b4bad59fc3defb5a017f01296d93fe3

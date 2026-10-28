@@ -941,3 +941,23 @@
 .hippie-font {
   font-family: 'HippieChe', sans-serif !important;
 }
+
+@font-face {
+  font-family: 'RisingCHAI';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.47.0/fonts/rising-chai/Rising_CHAI_Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'RisingCHAI';
+  src: url('https://cdn.jsdelivr.net/gh/yellopencil/yellopencil-webfonts@v1.47.0/fonts/rising-chai/Rising_CHAI_Extra_Bold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+.rising-chai-font {
+  font-family: 'RisingCHAI', sans-serif !important;
+}
