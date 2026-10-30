@@ -1,0 +1,28 @@
+Font: 차이 활짝체 / CHAI Hwaljjak
+Copyright (c) 2024 by CHAI. All rights reserved.
+Official page: https://www.artistchai.co.kr/#/pride/identity_font
+Official download: https://www.artistchai.co.kr/font/TTF_ChaiHwaljjak.zip
+Checked: 2026-10-30
+License: CHAI custom license, not OFL.
+LICENSE.txt transcribes the complete CHAI Hwaljjak license text.
+Original TTF files are distributed unchanged, including bytes, metadata and filenames.
+No format conversion. CSS groups the four official weights without modifying the font files.
+
+ChaiHwaljjak-Regular.ttf
+Weight: 400
+SHA256: C6CC00FB46F22F2DE06A4BC003EEB2BB72683C76990F4440F5428701D3D676F4
+
+ChaiHwaljjak-Medium.ttf
+Weight: 500
+SHA256: 8C4C0FCE0664217527D61CAAF98F3707F0D2BE6EC4287371731A5B851C7B1BB6
+
+ChaiHwaljjak-Bold.ttf
+Weight: 700
+SHA256: 592416FBDF60F920078F1996849E5381F45549E14E788868967C15101194A016
+
+ChaiHwaljjak-Heavy.ttf
+Weight: 800
+SHA256: 6C277C0FEB5EC377166C29A23C36C175E87C73916741BCF1A8AE0267294BB28F
+
+Verified all four TTF byte contents against official ZIP on 2026-10-30.
+Heavy OS/2 usWeightClass is 800; CSS maps Heavy to 800.
